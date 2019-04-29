@@ -1,0 +1,67 @@
+C:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\bin\Debug\S-A-R EnterPrise.exe.config
+C:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\bin\Debug\S-A-R EnterPrise.exe
+C:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\bin\Debug\S-A-R EnterPrise.pdb
+C:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S-A-R EnterPrise.csprojResolveAssemblyReference.cache
+C:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.Form1.resources
+C:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.Properties.Resources.resources
+C:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S-A-R EnterPrise.csproj.GenerateResource.Cache
+C:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S-A-R EnterPrise.exe
+C:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S-A-R EnterPrise.pdb
+C:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.Form2.resources
+C:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.Form3.resources
+C:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.Form4.resources
+C:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.Form5.resources
+C:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.Form6.resources
+C:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.Form7.resources
+C:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.Form8.resources
+C:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.Form9.resources
+C:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.particularcs.resources
+C:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.MotherAccount.resources
+C:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.AddCompany.resources
+C:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.StockDeatils.resources
+C:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.home.resources
+C:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.AddClient.resources
+C:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.StockAlert.resources
+C:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.StockReport2.resources
+C:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.ReportStockIn.resources
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\bin\Debug\S-A-R EnterPrise.exe.config
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S-A-R EnterPrise.exe
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S-A-R EnterPrise.pdb
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\bin\Debug\S-A-R EnterPrise.exe
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\bin\Debug\S-A-R EnterPrise.pdb
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S-A-R EnterPrise.csprojResolveAssemblyReference.cache
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.AddClient.resources
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.AddCompany.resources
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.Form1.resources
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.Form2.resources
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.Form3.resources
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.Form4.resources
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.Form5.resources
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.Form6.resources
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.Form7.resources
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.Form8.resources
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.Form9.resources
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.home.resources
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.MotherAccount.resources
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.particularcs.resources
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.Properties.Resources.resources
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.ReportStockIn.resources
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.StockAlert.resources
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.StockDeatils.resources
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.StockReport2.resources
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S-A-R EnterPrise.csproj.GenerateResource.Cache
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.Sell.resources
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\bin\Debug\EntityFramework.dll
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\bin\Debug\EntityFramework.SqlServer.dll
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\bin\Debug\EntityFramework.xml
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\bin\Debug\EntityFramework.SqlServer.xml
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.payment.resources
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.ReportSell.resources
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.PrintBill.resources
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.CompanyPayment.resources
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.UserAccount.resources
+F:\c# program\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S_A_R_EnterPrise.User.resources
+G:\S-A-R EnterPrise\S-A-R EnterPrise\bin\Debug\S-A-R EnterPrise.exe.config
+G:\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S-A-R EnterPrise.exe
+G:\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S-A-R EnterPrise.pdb
+G:\S-A-R EnterPrise\S-A-R EnterPrise\obj\Debug\S-A-R EnterPrise.csprojResolveAssemblyReference.cache
